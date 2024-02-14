@@ -14,11 +14,9 @@ Steps:
 2. Navigate to the directory containing the script.
 3. Execute the script:
 
-'''
-
+```
 product_key.vbs
-
-'''
+```
 
 4. A message box will display the Windows Product Name, Product ID, and Product Key.
 5. You will be prompted to save this information to a file. Click 'Yes' to save or 'No' to dismiss.
